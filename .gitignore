@@ -1,8 +1,0 @@
-.buildozer/
-__pycache__/
-*.pyc
-bin/
-*.apk
-node_modules/
-venv/
-Sakura_System/ai-main/pkgs/dart_mcp_server/nuxt-app/
