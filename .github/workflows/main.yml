@@ -1,5 +1,5 @@
 name: Build Android APK with Buildozer
-
+[![Build Android APK with Buildozer](https://github.com/jaksas28-design/sakura_project/actions/workflows/main.yml/badge.svg)](https://github.com/jaksas28-design/sakura_project/actions/workflows/main.yml)
 on:
   push:
     branches: [ main ]
