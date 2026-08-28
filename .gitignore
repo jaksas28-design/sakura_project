@@ -1,0 +1,7 @@
+.buildozer/
+__pycache__/
+*.pyc
+bin/
+*.apk
+node_modules/
+venv/
